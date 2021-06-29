@@ -149,9 +149,15 @@ section{
 }
 .buddy h1{
    text-align: center;
+   
+}
+
+.text{
+    font-family: cursive;
 }
 .buddy p{
     margin: 2%;
+    
 }
 
 .main-container p{
